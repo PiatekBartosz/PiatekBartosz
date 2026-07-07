@@ -1,6 +1,5 @@
 ## Hi there, I'm Bartek 👋
--  🇵🇱 Software Engineer from Poland
-- 💻 Embedded software engineer  
-- 🎓 Automatic Control and Robotics Masters Student
+- 💻 Embedded Software Engineer from Poland 
+- 🎓 Automatic Control and Robotics Masters
 - 💼 [LinkedIn](https://www.linkedin.com/in/bartoszpiatek) 
 - 🚀 Vim motion enjoyer
